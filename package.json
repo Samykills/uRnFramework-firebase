@@ -1,0 +1,26 @@
+{
+  "name": "uRnFramework-firebase",
+  "version": "1.0.0",
+  "description": "Set of components to be used throught the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "basic-components",
+    "react-native-basic-components"
+  ],
+  "author": {
+    "name": "Ullas Gupta",
+    "email": "ullas.gupta91@gmail.com"
+  },
+  "license": "urnFramework licence",
+  "deprecated": false,
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "16.3.1",
+    "react-native": "0.55.4"
+  }
+}
